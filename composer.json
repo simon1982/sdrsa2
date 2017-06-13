@@ -1,0 +1,12 @@
+{
+  "name": "szymondomanski.com/sdrsa",
+  "description": "Self Discovering Recursive Sitemap Algorithm",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Szymon Domanski",
+      "email": "szymon.domanski@szymondomanski.com"
+    }
+  ]
+}
